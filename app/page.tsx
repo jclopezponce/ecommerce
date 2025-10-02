@@ -1,5 +1,5 @@
 import Header from "@/components/home/header";
-import { RandomCarousel } from "@/components/home/carrousel-products";
+import {RandomCarousel} from "@/components/home/carrousel-products";
 
 
 export default function Home() {

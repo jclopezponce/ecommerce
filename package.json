@@ -9,8 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fortawesome/react-fontawesome": "^3.0.2",
     "@headlessui/react": "^2.2.9",
     "@heroicons/react": "^2.2.0",
+    "@heroui/card": "^2.2.24",
+    "@heroui/react": "^2.8.4",
+    "@mui/icons-material": "^7.3.2",
+    "@mui/material": "^7.3.2",
+    "@mui/styled-engine-sc": "^7.3.2",
     "@radix-ui/react-slot": "^1.2.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -19,6 +27,7 @@
     "next": "15.5.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
+    "styled-components": "^6.1.19",
     "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
